@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a850341-716f-4193-854d-335b194bc4e8" name="Default Changelist" comment="" />
+    <list default="true" id="9a850341-716f-4193-854d-335b194bc4e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/procedure.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0042fa26-d133-4988-a21e-c7d67542458f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0042fa26-d133-4988-a21e-c7d67542458f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0042fa26-d133-4988-a21e-c7d67542458f/storage_v2/_src_/schema/classicmodels.fG2wDg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0042fa26-d133-4988-a21e-c7d67542458f/storage_v2/_src_/schema/classicmodels.fG2wDg.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +51,11 @@
     </expand>
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bYqrkvC4PWV4HhAlWRLEO45Akw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,12 +64,18 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codegym\Exercise\JAVA_BACKEND\demo-MySQL-IndexViewProcedure" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -76,11 +93,6 @@
                 <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="com.intellij.database.console.session.MessageBusSession@25751194" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@3e47df5f" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -95,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588819575936</updated>
-      <workItem from="1588819578869" duration="1667000" />
+      <workItem from="1588819578869" duration="5569000" />
     </task>
     <servers />
   </component>
@@ -107,22 +119,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="695" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1588819696088" />
-    <state width="614" height="255" key="GridCell.Tab.0.bottom" timestamp="1588821328646">
+    <state width="614" height="255" key="GridCell.Tab.0.bottom" timestamp="1588825780193">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="614" height="255" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588821328646" />
-    <state width="614" height="255" key="GridCell.Tab.0.center" timestamp="1588821328645">
+    <state width="614" height="255" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588825780193" />
+    <state width="614" height="255" key="GridCell.Tab.0.center" timestamp="1588825780192">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="614" height="255" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588821328645" />
-    <state width="614" height="255" key="GridCell.Tab.0.left" timestamp="1588821328645">
+    <state width="614" height="255" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588825780192" />
+    <state width="614" height="255" key="GridCell.Tab.0.left" timestamp="1588825780192">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="614" height="255" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588821328645" />
-    <state width="614" height="255" key="GridCell.Tab.0.right" timestamp="1588821328645">
+    <state width="614" height="255" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588825780192" />
+    <state width="614" height="255" key="GridCell.Tab.0.right" timestamp="1588825780193">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="614" height="255" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588821328645" />
+    <state width="614" height="255" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588825780193" />
     <state width="189" height="539" key="HiddenNamespacesPopup" timestamp="1588819713567">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

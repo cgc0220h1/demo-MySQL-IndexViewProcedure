@@ -14,6 +14,7 @@
           <node kind="schema">
             <name qname="@" />
             <name qname="classicmodels" />
+            <name qname="testprocedure" />
           </node>
         </introspection-scope>
       </schema-mapping>
