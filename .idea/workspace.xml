@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a850341-716f-4193-854d-335b194bc4e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/view.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0042fa26-d133-4988-a21e-c7d67542458f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0042fa26-d133-4988-a21e-c7d67542458f.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0042fa26-d133-4988-a21e-c7d67542458f/storage_v2/_src_/schema/classicmodels.fG2wDg.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0042fa26-d133-4988-a21e-c7d67542458f/storage_v2/_src_/schema/classicmodels.fG2wDg.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procedure.sql" beforeDir="false" afterPath="$PROJECT_DIR$/procedure.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -92,6 +88,11 @@
                 <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="com.intellij.database.console.session.MessageBusSession@25751194" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@3272c7a5" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
             </expand>
             <select />
           </treeState>
@@ -106,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588819575936</updated>
-      <workItem from="1588819578869" duration="8570000" />
+      <workItem from="1588819578869" duration="10659000" />
     </task>
     <servers />
   </component>
@@ -138,10 +139,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="189" height="539" key="HiddenNamespacesPopup/0.0.1536.834@0.0.1536.834" timestamp="1588819713567" />
-    <state x="317" y="70" key="SettingsEditor" timestamp="1588820346338">
+    <state x="317" y="70" key="SettingsEditor" timestamp="1588847072307">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="317" y="70" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588820346338" />
+    <state x="317" y="70" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588847072307" />
     <state x="857" y="174" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1588820340511">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -150,5 +151,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="812" y="63" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1588820317020" />
+    <state x="729" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1588847022078">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="729" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1588847022078" />
   </component>
 </project>
