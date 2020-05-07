@@ -15,6 +15,7 @@ END;
 DELIMITER ;
 CALL findALLCustomer();
 
+--Query Customer
 USE classicmodels;
 
 DELIMITER //
